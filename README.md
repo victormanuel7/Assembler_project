@@ -1,5 +1,6 @@
 # Assembler_project
 
-Autores: /n
-Ezra Charles /n
+Autores:
+
+Ezra Charles 
 Victor Sandoval
