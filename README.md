@@ -2,5 +2,5 @@
 
 Autores:
 
-Ezra Charles 
+Ezra Charles, 
 Victor Sandoval
